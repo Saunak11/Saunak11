@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saunak11
 - 👀 I’m interested in sports, cooking, dance,human-psychology & software development.
-- 🌱 I’m currently learning C++ programming and SQL.
+- 🌱 I’m currently learning data scince in python and SQL.
 - 💞️ I’m looking to collaborate with anyone.
 - 📫 You can reach me via my email-id saunak.saha321@gmail.com or connect me in LinkedIn.
 
