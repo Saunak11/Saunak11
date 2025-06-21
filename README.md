@@ -20,7 +20,7 @@
 
 - 🤝 I’m looking for help with **understanding best practices in analytics workflows, Git collaboration, and industry-level data projects.**
 
-- 💬 Ask me about **about my playlist that can cure any Monday.**
+- 💬 Ask me about **my playlist that can cure any Monday.**
 
 - 📫 Reach me at **saha.saunak123@gmail.com**
 
