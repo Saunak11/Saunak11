@@ -86,7 +86,7 @@
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" title="Power BI"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" title="Tableau"/>
-  <img src="https://github.com/user-attachments/assets/d65f153b-893c-433d-bf87-71b279bc9ee4" width="40" title="Alteryx"/>
+  <img src="https://github.com/user-attachments/assets/d65f153b-893c-433d-bf87-71b279bc9ee4" width="35" title="Alteryx"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40" title="MS Excel"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019--v1.png" width="40" title="MS Word"/>
 </p>
