@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **personal projects that combine data analytics, Java development, and cloud fundamentals. Exploring real-world datasets and building smart solutions.**
 
-- 🌱 I’m currently learning **advanced data analytics, SQL optimization, and building dashboards with Power BI.**
+- 🌱 I’m currently learning **advanced data analytics and SQL optimization**
 
 - 👯 I’m looking to collaborate on **data analysis, visualization, and machine learning projects using Python, SQL, and Power BI.**
 
