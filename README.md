@@ -84,7 +84,7 @@
 <h4>💾 Big Data</h4>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40" title="Hadoop"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-apache-hive-a-data-warehouse-software-project-built-on-top-of-apache-hadoop-logo-color-tal-revivo.png" width="40" title="Hive"/>
+  <img src="https://github.com/Saunak11/Saunak11/blob/main/Apache_Hive_logo.svg.png" width="40" title="Hive"/>
 </p>
 
 <!-- Analytics & Productivity Tools -->
