@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **my playlist that can cure any Monday.**
 
-- 📫 Reach me at **saha.saunak123@gmail.com**
+- 📫 Reach me via **saha.saunak123@gmail.com** or **https://www.linkedin.com/in/saunak-saha-273506228/**.
 
 - ⚡ Fun fact: **I strongly believe pizza is a valid meal for all 3 times of the day.**
 
