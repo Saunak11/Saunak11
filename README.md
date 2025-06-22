@@ -24,8 +24,6 @@
 
 - 📫 Reach me at **saha.saunak123@gmail.com**
 
-- 📄 Know about my experiences: [View Resume](https://drive.google.com/file/d/1mkiCofFmipc22IH3QKIs3rGljCATflt7/view?usp=sharing)
-
 - ⚡ Fun fact: **I strongly believe pizza is a valid meal for all 3 times of the day.**
 
 ---
