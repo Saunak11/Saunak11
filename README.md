@@ -80,6 +80,13 @@
   <img src="https://skillicons.dev/icons?i=aws" width="40" title="AWS"/>
 </p>
 
+<!-- Big Data -->
+<h4>💾 Big Data</h4>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40" title="Hadoop"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-apache-hive-a-data-warehouse-software-project-built-on-top-of-apache-hadoop-logo-color-tal-revivo.png" width="40" title="Hive"/>
+</p>
+
 <!-- Analytics & Productivity Tools -->
 <h4>📊 Analytics & Productivity Tools</h4>
 <p align="left">
