@@ -95,6 +95,7 @@
   <img src="https://github.com/user-attachments/assets/d65f153b-893c-433d-bf87-71b279bc9ee4" width="35" title="Alteryx"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40" title="MS Excel"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019--v1.png" width="40" title="MS Word"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="35" title="JIRA"/>
 </p>
 
 
